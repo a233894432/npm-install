@@ -5,15 +5,15 @@
 ## CI
 
 <!-- prettier-ignore-start -->
-Example | Status
---- | ---
-[main](.github/workflows/main.yml) | ![this repo](https://github.com/bahmutov/npm-install/workflows/main/badge.svg?branch=master)
-[basic](.github/workflows/example-basic.yml) | ![basic example](https://github.com/bahmutov/npm-install/workflows/example-basic/badge.svg?branch=master)
-[shrinkwrap](.github/workflows/example-shrinkwrap.yml) | ![shrinkwrap example](https://github.com/bahmutov/npm-install/workflows/example-shrinkwrap/badge.svg?branch=master)
-[Yarn](.github/workflows/example-yarn.yml) | ![yarn example](https://github.com/bahmutov/npm-install/workflows/example-yarn/badge.svg?branch=master)
-[without lock file](.github/workflows/example-without-lock-file.yml) | ![without lockfile example](https://github.com/bahmutov/npm-install/workflows/example-without-lock-file/badge.svg?branch=master)
-[subfolders](.github/workflows/example-subfolders.yml) | ![subfolders example](https://github.com/bahmutov/npm-install/workflows/example-subfolders/badge.svg?branch=master)
-[Node version](.github/workflows/example-node-version.yml) | ![Node version example](https://github.com/bahmutov/npm-install/workflows/example-node-version/badge.svg?branch=master)
+| Example                                                              | Status                                                                                                                           |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [main](.github/workflows/main.yml)                                   | ![this repo](https://github.com/bahmutov/npm-install/workflows/main/badge.svg?branch=master)                                     |
+| [basic](.github/workflows/example-basic.yml)                         | ![basic example](https://github.com/bahmutov/npm-install/workflows/example-basic/badge.svg?branch=master)                        |
+| [shrinkwrap](.github/workflows/example-shrinkwrap.yml)               | ![shrinkwrap example](https://github.com/bahmutov/npm-install/workflows/example-shrinkwrap/badge.svg?branch=master)              |
+| [Yarn](.github/workflows/example-yarn.yml)                           | ![yarn example](https://github.com/bahmutov/npm-install/workflows/example-yarn/badge.svg?branch=master)                          |
+| [without lock file](.github/workflows/example-without-lock-file.yml) | ![without lockfile example](https://github.com/bahmutov/npm-install/workflows/example-without-lock-file/badge.svg?branch=master) |
+| [subfolders](.github/workflows/example-subfolders.yml)               | ![subfolders example](https://github.com/bahmutov/npm-install/workflows/example-subfolders/badge.svg?branch=master)              |
+| [Node version](.github/workflows/example-node-version.yml)           | ![Node version example](https://github.com/bahmutov/npm-install/workflows/example-node-version/badge.svg?branch=master)          |
 <!-- prettier-ignore-end -->
 
 ## Examples
@@ -161,9 +161,9 @@ See [example-node-version.yml](./.github/workflows/example-node-version.yml)
 ### External examples
 
 <!-- prettier-ignore-start -->
-Name | Description
---- | ---
-[npm-install-example](https://github.com/bahmutov/npm-install-example) | Shows how to use this action
+| Name                                                                   | Description                  |
+| ---------------------------------------------------------------------- | ---------------------------- |
+| [npm-install-example](https://github.com/bahmutov/npm-install-example) | Shows how to use this action |
 <!-- prettier-ignore-end -->
 
 ## NPM
@@ -249,3 +249,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 [semantic-url]: https://github.com/semantic-release/semantic-release
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
+
+
+## test ci
